@@ -17,15 +17,15 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="3070921713463294774">"Descargas"</string>
-    <string name="download_title_sorted_by_date" msgid="5898014492155434221">"Descargas (ordenadas por fecha)"</string>
-    <string name="download_title_sorted_by_size" msgid="1417193166677094813">"Descargas (ordenadas por tamaño)"</string>
+    <string name="download_title_sorted_by_date" msgid="5898014492155434221">"Descargas (por fecha)"</string>
+    <string name="download_title_sorted_by_size" msgid="1417193166677094813">"Descargas (por tamaño)"</string>
     <string name="no_downloads" msgid="1029667411186146836">"No hay descargas."</string>
     <string name="missing_title" msgid="830115697868833773">"&lt;Desconocido&gt;"</string>
     <string name="button_sort_by_size" msgid="7331549713691146251">"Ordenar por tamaño"</string>
     <string name="button_sort_by_date" msgid="8800842892684101528">"Ordenar por fecha"</string>
     <string name="download_queued" msgid="104973307780629904">"En cola"</string>
     <string name="download_running" msgid="4656462962155580641">"En curso"</string>
-    <string name="download_success" msgid="7006048006543495236">"Completada"</string>
+    <string name="download_success" msgid="7006048006543495236">"Correcta"</string>
     <string name="download_error" msgid="3107369653921738690">"Con error"</string>
     <string name="dialog_title_not_available" msgid="4479021195995400471">"Error en la descarga"</string>
     <string name="dialog_failed_body" msgid="587545111677064427">"¿Quieres volver a intentar descargar el archivo más tarde o prefieres eliminarlo de la cola?"</string>
